@@ -1,0 +1,14 @@
+# Ignore .idea folder
+.idea/
+
+# Ignore  .log files
+*.log
+
+# Ignore file secret_config.py
+.DS_Store
+
+# Ignore INT
+
+
+# Ignore Test Files folder
+Test-Files/
